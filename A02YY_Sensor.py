@@ -2,7 +2,7 @@
 UART Driver for A02YY ultrasonic sensor
 
 Author: Roman Smolka
-Link: https://www.elecrow.com/wiki/index.php?title=Ultrasonic_Ranging_Module
+Link: https://github.com/RomanSmolka/A02YY_Sensor
 
 Frame format:
 +--------+--------+--------+-----+
